@@ -1,0 +1,1991 @@
+{
+    "brandKeyword": false,
+    "categoryNavs": [
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 0,
+            "name": "全部分类",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 10,
+            "name": "美食",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 10,
+            "name": "全部美食",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 111,
+            "name": "自助餐",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 103,
+            "name": "粤菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 102,
+            "name": "川菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 115,
+            "name": "东南亚菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 116,
+            "name": "西餐",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 110,
+            "name": "火锅",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 112,
+            "name": "小吃快餐",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 101,
+            "name": "杭帮/江浙菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 117,
+            "name": "面包甜点",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 132,
+            "name": "咖啡厅",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 508,
+            "name": "烧烤",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 1338,
+            "name": "私房菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25474,
+            "name": "农家菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 215,
+            "name": "面馆",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 251,
+            "name": "海鲜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 134,
+            "name": "茶馆",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 1783,
+            "name": "家常菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 114,
+            "name": "韩国料理",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 250,
+            "name": "创意菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 113,
+            "name": "日本料理",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 118,
+            "name": "其他美食",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 106,
+            "name": "东北菜",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 219,
+            "name": "小龙虾",
+            "parentId": 10,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25,
+            "name": "电影演出赛事",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25,
+            "name": "全部电影演出赛事",
+            "parentId": 25,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 136,
+            "name": "电影院",
+            "parentId": 25,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25461,
+            "name": "演出场馆",
+            "parentId": 25,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 30,
+            "name": "休闲娱乐",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 30,
+            "name": "全部休闲娱乐",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 134,
+            "name": "茶馆",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2636,
+            "name": "运动健身",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 141,
+            "name": "足疗按摩",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 135,
+            "name": "KTV",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20038,
+            "name": "采摘/农家乐",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20042,
+            "name": "网吧网咖",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 142,
+            "name": "文化艺术",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 156,
+            "name": "台球馆",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 140,
+            "name": "洗浴/汗蒸",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 32732,
+            "name": "棋牌室",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 144,
+            "name": "DIY手工坊",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20039,
+            "name": "真人CS",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33857,
+            "name": "VR",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 26490,
+            "name": "更多休闲娱乐",
+            "parentId": 30,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 60,
+            "name": "酒店",
+            "parentId": 0,
+            "sortId": 10
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 60,
+            "name": "全部酒店",
+            "parentId": 60,
+            "sortId": 10
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 171,
+            "name": "经济型",
+            "parentId": 60,
+            "sortId": 9
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33842,
+            "name": "度假酒店",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33830,
+            "name": "高端酒店",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33838,
+            "name": "商务酒店",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3020,
+            "name": "五星级/豪华型",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3022,
+            "name": "四星级/高档型",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3024,
+            "name": "三星级/舒适型",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33839,
+            "name": "主题酒店",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33837,
+            "name": "快捷酒店",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6714,
+            "name": "精品酒店",
+            "parentId": 60,
+            "sortId": 4
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 172,
+            "name": "青年旅舍",
+            "parentId": 60,
+            "sortId": 2
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6693,
+            "name": "公寓式酒店",
+            "parentId": 60,
+            "sortId": 3
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25842,
+            "name": "客栈旅舍",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 173,
+            "name": "度假村",
+            "parentId": 60,
+            "sortId": 5
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33843,
+            "name": "别墅",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33841,
+            "name": "民宿",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 174,
+            "name": "更多酒店住宿",
+            "parentId": 60,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 50,
+            "name": "丽人",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 50,
+            "name": "全部丽人",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 157,
+            "name": "美发",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 158,
+            "name": "美容/SPA",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33761,
+            "name": "美甲美睫",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 493,
+            "name": "纹身",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 123,
+            "name": "化妆品",
+            "parentId": 50,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 15,
+            "name": "K歌",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 15,
+            "name": "全部K歌",
+            "parentId": 15,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 135,
+            "name": "KTV",
+            "parentId": 15,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 45,
+            "name": "运动健身",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 45,
+            "name": "全部运动健身",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 147,
+            "name": "健身中心",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 151,
+            "name": "游泳馆",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2838,
+            "name": "漂流",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 156,
+            "name": "台球馆",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 150,
+            "name": "体育场馆",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 154,
+            "name": "高尔夫场",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 153,
+            "name": "网球场",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6709,
+            "name": "射箭馆",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6710,
+            "name": "马术场",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 145,
+            "name": "更多运动场馆",
+            "parentId": 45,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 35,
+            "name": "周边游",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 35,
+            "name": "全部周边游",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33831,
+            "name": "景点",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2916,
+            "name": "水上娱乐",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2926,
+            "name": "展馆展览",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 5672,
+            "name": "温泉",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20038,
+            "name": "采摘/农家乐",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33832,
+            "name": "旅游其他",
+            "parentId": 35,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 70,
+            "name": "亲子",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 70,
+            "name": "全部亲子",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 193,
+            "name": "亲子摄影",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 161,
+            "name": "亲子游乐",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 188,
+            "name": "幼儿教育",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 258,
+            "name": "孕产护理",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 125,
+            "name": "亲子购物",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 189,
+            "name": "幼儿园",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33803,
+            "name": "亲子玩乐",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 27769,
+            "name": "更多亲子服务",
+            "parentId": 70,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 55,
+            "name": "结婚",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 55,
+            "name": "全部结婚",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 163,
+            "name": "婚纱摄影",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 167,
+            "name": "婚庆公司",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 191,
+            "name": "婚戒首饰",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6700,
+            "name": "个性写真",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 166,
+            "name": "彩妆造型",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6844,
+            "name": "更多婚礼服务",
+            "parentId": 55,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20,
+            "name": "购物",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20,
+            "name": "全部购物",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 120,
+            "name": "服饰鞋包",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 119,
+            "name": "综合商场",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 122,
+            "name": "珠宝饰品",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 121,
+            "name": "运动户外",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 187,
+            "name": "超市/便利店",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 235,
+            "name": "药店",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 123,
+            "name": "化妆品",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 128,
+            "name": "眼镜店",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 125,
+            "name": "亲子购物",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 26085,
+            "name": "花店",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 124,
+            "name": "数码产品",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 127,
+            "name": "书店",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 126,
+            "name": "家居建材",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 184,
+            "name": "食品茶酒",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2714,
+            "name": "水果生鲜",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 26101,
+            "name": "办公/文化用品",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 131,
+            "name": "更多购物场所",
+            "parentId": 20,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 80,
+            "name": "生活服务",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 80,
+            "name": "全部生活服务",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 836,
+            "name": "房屋地产",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 197,
+            "name": "旅行社",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33971,
+            "name": "便民服务",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 34003,
+            "name": "金融",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 979,
+            "name": "公司企业",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6823,
+            "name": "交通",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33986,
+            "name": "搬家运输",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3066,
+            "name": "文印图文",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3064,
+            "name": "快照摄影",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33762,
+            "name": "洗涤护理",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 980,
+            "name": "售票点",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 3082,
+            "name": "政府机构",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33958,
+            "name": "商务服务",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33976,
+            "name": "家电数码维修",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 26119,
+            "name": "网站",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 26491,
+            "name": "更多生活服务",
+            "parentId": 80,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 75,
+            "name": "学习培训",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 75,
+            "name": "全部学习培训",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2872,
+            "name": "外语培训",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2873,
+            "name": "音乐培训",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2877,
+            "name": "职业技术",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2874,
+            "name": "美术培训",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 179,
+            "name": "驾校",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 260,
+            "name": "教育院校",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2882,
+            "name": "更多教育培训",
+            "parentId": 75,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 65,
+            "name": "爱车",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 65,
+            "name": "全部爱车",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 180,
+            "name": "停车场",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 176,
+            "name": "维修保养",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 175,
+            "name": "4S店/汽车销售",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 177,
+            "name": "配件/车饰",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 20026,
+            "name": "汽车美容",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 178,
+            "name": "汽车租赁",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 236,
+            "name": "加油站",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33764,
+            "name": "交警队",
+            "parentId": 65,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 85,
+            "name": "医疗健康",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 85,
+            "name": "全部医疗健康",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 181,
+            "name": "医院",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 182,
+            "name": "齿科",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 612,
+            "name": "体检中心",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 235,
+            "name": "药店",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 2912,
+            "name": "其他医疗",
+            "parentId": 85,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 90,
+            "name": "家装",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 90,
+            "name": "全部家装",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6826,
+            "name": "建材",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 32705,
+            "name": "家用电器",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 32702,
+            "name": "家居家纺",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 25475,
+            "name": "装修设计",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33867,
+            "name": "厨卫洁具",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33876,
+            "name": "灯饰照明",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 6827,
+            "name": "家具",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 34035,
+            "name": "全屋/橱柜定制",
+            "parentId": 90,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33954,
+            "name": "榛果民宿",
+            "parentId": 0,
+            "sortId": 0
+        },
+        {
+            "distance": 0,
+            "favIcon": "",
+            "id": 33954,
+            "name": "全部榛果民宿",
+            "parentId": 33954,
+            "sortId": 0
+        }
+    ],
+    "currentCategory": {
+        "distance": 0,
+        "favIcon": "",
+        "id": 0,
+        "name": "全部分类",
+        "parentId": 0,
+        "sortId": 0
+    },
+    "currentRegion": {
+        "id": 0,
+        "lat": 0,
+        "lng": 0,
+        "name": "全部商区",
+        "parentId": -10000,
+        "regionType": 0
+    },
+    "currentSort": {
+        "id": "0",
+        "name": "智能排序",
+        "type": 3
+    },
+    "filterNavi": {
+        "filterGroups": [
+            {
+                "itemType": 0,
+                "items": [
+                    {
+                        "desc": "",
+                        "id": "1-1",
+                        "name": "买单",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "5-2",
+                        "name": "团购",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "1-4",
+                        "name": "促销",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "1-5",
+                        "name": "预订",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "1-6",
+                        "name": "排队",
+                        "selected": false,
+                        "type": 0
+                    }
+                ],
+                "label": "省钱省心",
+                "multiSelectable": true,
+                "name": "优惠/服务"
+            },
+            {
+                "itemType": 0,
+                "items": [
+                    {
+                        "desc": "",
+                        "id": "3-12",
+                        "name": "50以下",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "3-13",
+                        "name": "50-100",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "3-14",
+                        "name": "100-300",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "3-15",
+                        "name": "300以上",
+                        "selected": false,
+                        "type": 0
+                    }
+                ],
+                "label": "",
+                "multiSelectable": false,
+                "name": "价格"
+            },
+            {
+                "itemType": 0,
+                "items": [
+                    {
+                        "desc": "",
+                        "id": "1-9",
+                        "name": "新店",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "4-10",
+                        "name": "营业中",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "2-233:309225",
+                        "name": "有Wi-Fi",
+                        "selected": false,
+                        "type": 0
+                    },
+                    {
+                        "desc": "",
+                        "id": "2-233:309228",
+                        "name": "可停车",
+                        "selected": false,
+                        "type": 0
+                    }
+                ],
+                "label": "",
+                "multiSelectable": true,
+                "name": "更多"
+            }
+        ]
+    },
+    "guideAttributeResult": { },
+    "isEnd": false,
+    "list": [
+        {
+            "adShop": false,
+            "altName": "",
+            "authorityLabelColor": "#22A3DD",
+            "authorityLabelType": 6,
+            "bookable": false,
+            "branchName": "",
+            "categoryId": 32745,
+            "categoryName": "自然风光",
+            "cityId": 3602,
+            "defaultPic": "https://p0.meituan.net/travel/672069ccb4808ad77b55a5d0b7e7aa6b113114.jpg%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "extraJson": "{}",
+            "hasBeautyBooking": false,
+            "hasDeals": false,
+            "hasMoPay": false,
+            "hasPromo": false,
+            "hasTakeaway": false,
+            "hotelBookable": false,
+            "id": 63263234,
+            "matchText": "千岛湖风景区 自然风光",
+            "memberCardId": 0,
+            "name": "千岛湖",
+            "newShop": false,
+            "orderDish": false,
+            "originalUrlKey": "http://p0.meituan.net/travel/672069ccb4808ad77b55a5d0b7e7aa6b113114.jpg",
+            "priceText": "￥461/人",
+            "queueable": false,
+            "recommendReason": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 13,
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "休息中 08:00营业",
+                "textType": 0,
+                "type": 0
+            },
+            "recommendReasonData": {
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "recommendReason": "休息中 08:00营业",
+                "recommendReasonType": 2
+            },
+            "regionName": "千岛湖风景区",
+            "reviewCount": 516,
+            "scoreText": "",
+            "shopDealInfos": [
+                {
+                    "dealTitle": "无购物、体验徽式美食、品读黄山、畅游千岛湖、赏篁岭油菜花1692元,千岛湖、千岛湖中心湖景区、黄山风景区3日跟团游*住山上看日出三日游898元,千岛湖、瑶琳仙境、大奇山国家森林公园纯玩2日跟团游690元",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p1.meituan.net/wedding/14ca23335f38cab46e1ac69894a18ebd2304.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 28
+                    }
+                },
+                {
+                    "dealTitle": "海博大酒店+980元,千岛湖丽景酒店+家庭养生鱼头火锅套餐400元,千岛湖玉翰主题酒店2晚+943元",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p1.meituan.net/wedding/5385ce1dd82ff7044fd730db6bcc18b22493.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 28
+                    }
+                }
+            ],
+            "shopPositionInfo": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "",
+                "textType": 0,
+                "type": 0
+            },
+            "shopPower": 50,
+            "shopStateInformation": [
+                {
+                    "alignType": 1,
+                    "cornerRadius": 0,
+                    "fontSize": 0,
+                    "icon": "",
+                    "iconAlignType": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconWidth": 0,
+                    "priority": 3,
+                    "text": "5A景区",
+                    "textType": 0,
+                    "type": 6
+                }
+            ],
+            "shopType": 35,
+            "status": 0
+        }
+    ],
+    "metroNavs": [ ],
+    "nextStartIndex": 1,
+    "queryId": "91443962-0fa7-49f6-9790-76324ad87916",
+    "rangeNavs": [
+        {
+            "id": "-1",
+            "name": "附近（智能范围）",
+            "type": 3
+        },
+        {
+            "id": "500",
+            "name": "500米",
+            "type": 3
+        },
+        {
+            "id": "1000",
+            "name": "1000米",
+            "type": 3
+        },
+        {
+            "id": "2000",
+            "name": "2000米",
+            "type": 3
+        },
+        {
+            "id": "5000",
+            "name": "5000米",
+            "type": 3
+        }
+    ],
+    "recordCount": 2113,
+    "regionNavs": [
+        {
+            "id": -10000,
+            "lat": 0,
+            "lng": 0,
+            "name": "热门商区",
+            "parentId": 0,
+            "regionType": 0
+        },
+        {
+            "id": 0,
+            "lat": 0,
+            "lng": 0,
+            "name": "全部商区",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 69814,
+            "lat": 0,
+            "lng": 0,
+            "name": "阳光路",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71357,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖绿城度假公寓",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71360,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖广场",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71355,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖十字街",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71354,
+            "lat": 0,
+            "lng": 0,
+            "name": "明珠花园",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71728,
+            "lat": 0,
+            "lng": 0,
+            "name": "开发区",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71358,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖大排档",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 71359,
+            "lat": 0,
+            "lng": 0,
+            "name": "江滨公园",
+            "parentId": -10000,
+            "regionType": 0
+        },
+        {
+            "id": 64728,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖风景区",
+            "parentId": 0,
+            "regionType": 0
+        },
+        {
+            "id": 64728,
+            "lat": 0,
+            "lng": 0,
+            "name": "全部千岛湖风景区",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 69814,
+            "lat": 0,
+            "lng": 0,
+            "name": "阳光路",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71357,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖绿城度假公寓",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71360,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖广场",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71355,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖十字街",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71354,
+            "lat": 0,
+            "lng": 0,
+            "name": "明珠花园",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71728,
+            "lat": 0,
+            "lng": 0,
+            "name": "开发区",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71358,
+            "lat": 0,
+            "lng": 0,
+            "name": "千岛湖大排档",
+            "parentId": 64728,
+            "regionType": 0
+        },
+        {
+            "id": 71359,
+            "lat": 0,
+            "lng": 0,
+            "name": "江滨公园",
+            "parentId": 64728,
+            "regionType": 0
+        }
+    ],
+    "searchResultExtraInfo": "{\"AdLabel\":\"广告\"}",
+    "sortNavs": [
+        {
+            "id": "0",
+            "name": "智能排序",
+            "type": 3
+        },
+        {
+            "id": "1",
+            "name": "离我最近",
+            "type": 3
+        },
+        {
+            "id": "2",
+            "name": "人气最高",
+            "type": 3
+        },
+        {
+            "id": "3",
+            "name": "评价最好",
+            "type": 3
+        },
+        {
+            "id": "8",
+            "name": "人均最低",
+            "type": 3
+        },
+        {
+            "id": "9",
+            "name": "人均最高",
+            "type": 3
+        }
+    ],
+    "startIndex": 0
+}

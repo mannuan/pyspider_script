@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+        <script src="hzz/codemirror.js"></script>
+    <script src="hzz/python.js"></script>
+    <link rel="stylesheet" href="hzz/codemirror.css">
+</head>
+
+<body>
+<h2>Python mode</h2>
+<div>
+<textarea id="code" name="code">
+</textarea>
+</div>
+<script>
+CodeMirror.fromTextArea(document.getElementById("code"), {
+    mode: {name: "python",
+           version: 3,
+           singleLineStringErrors: false},
+    lineNumbers: true,
+    indentUnit: 4,
+    matchBrackets: true
+});
+</script>
+</body>
+</html>

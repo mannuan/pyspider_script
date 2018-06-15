@@ -1,0 +1,26 @@
+DROP TABLE IF EXISTS `dazhongdianping_comment`;
+CREATE TABLE `dazhongdianping_comment`(
+  `addTime` varchar(100),
+  `avgPrice` int(100),
+  `browseCount` bigint(100),
+  `crawl_time` varchar(100),
+  `flowerTotal` int(100),
+  `followNoteNo` int(100),
+  `honour` int(100),
+  `id` bigint(100) NOT NULL,
+  `lastTime` varchar(100),
+  `lastTimeStr` varchar(100),
+  `platform` int(100),
+  `reviewBody` text,
+  `reviewId` bigint(100) NOT NULL,
+  `reviewPicNum` int(100),
+  `reviewPics` text,
+  `reviewdetailUrl` text,
+  `star` int(100),
+  `userLevelImg` text,
+  `userNickName` varchar(100),
+  `userPhoto` text,
+  `userPower` int(100),
+  `vipLevel` int(100),
+  PRIMARY KEY (`id`,`reviewId`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;

@@ -1,0 +1,385 @@
+body{
+    position: relative;
+    font: 12px/1.5 arial,'\5b8b\4f53',sans-serif;
+    padding: 0 15%;
+    min-width: 960px;
+}
+ol,li,ul{
+    list-style: none;
+    padding:0;
+}
+dl,dd,dt{
+    padding: 0;
+    margin: 0;
+}
+a {
+    color: #338de6;
+    text-decoration: none;
+}
+h1{
+    margin: 0 10px 0 0;
+    font-size: 34px;
+    line-height: 1.15;
+    font-weight: 400;
+    vertical-align: sub;
+    text-align: center;
+}
+h2, h3{
+    clear: both;
+}
+.para {
+    clear: both;
+    font-size: 15px;
+    word-wrap: break-word;
+    color: #333;
+    margin-bottom: 15px;
+    text-indent: 2em;
+    line-height: 24px;
+    zoom: 1;
+}
+.authorityListPrompt .main-content-zj {
+    text-align: center;
+    font-size: 12px;
+    color: #666;
+    padding-left: 20px;
+}
+.basic-info {
+    /*margin: 20px 10%;*/
+    margin: 20px 0;
+    clear: both;
+    overflow: hidden;
+}
+.basic-info .basicInfo-block .basicInfo-item.name {
+    width: 90px;
+    padding: 0 5px 0 12px;
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: normal;
+    color: #999;
+}
+.basic-info .basicInfo-block {
+    width: 395px;
+    float: left;
+}
+.basic-info .basicInfo-block .basicInfo-item {
+    line-height: 26px;
+    display: block;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.basic-info .basicInfo-block .basicInfo-item.value {
+    zoom: 1;
+    color: #333;
+    width: 285px;
+    float: left;
+    position: relative;
+    word-break: break-all;
+}
+
+.lemmaWgt-lemmaCatalog {
+    /* margin: 35px 10%;*/
+    overflow: hidden;
+}
+
+.lemmaWgt-lemmaCatalog .lemma-catalog {
+    clear: both;
+    float: left;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    background: #fbfbfb;
+    font-family: arial, tahoma, 'Microsoft Yahei', '\5b8b\4f53', sans-serif;
+}
+.lemmaWgt-lemmaCatalog ol{
+    float: left;
+    border-left: 1px solid #f5f5f5;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .block-title {
+    float: left;
+    margin: 22px 0 0 20px;
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 48px;
+    font-weight: 400;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list {
+    display: block;
+    float: left;
+    border-left: 1px solid #ebebeb;
+    width: 706px;
+    position: relative;
+    overflow: hidden;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: #fff;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list ol li.level1 .index {
+    display: -moz-inline-box;
+    -moz-box-orient: vertical;
+    display: inline-block;
+    width: 18px;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 8px;
+    vertical-align: top;
+    text-align: right;
+    color: #63a0df;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list ol li.level1 .text {
+    display: -moz-inline-box;
+    -moz-box-orient: vertical;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #fff;
+    vertical-align: top;
+    width: 120px;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list ol li.level2 .index {
+    display: -moz-inline-box;
+    -moz-box-orient: vertical;
+    display: inline-block;
+    padding-left: 41px;
+    padding-right: 5px;
+    width: 5px;
+    line-height: 16px;
+    font-size: 12px;
+    vertical-align: top;
+    color: #ccc;
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list ol li.level2 .text {
+    display: -moz-inline-box;
+    -moz-box-orient: vertical;
+    display: inline-block;
+    line-height: 16px;
+    font-size: 12px;
+    width: 115px;
+    vertical-align: top;
+
+}
+.lemmaWgt-lemmaCatalog .lemma-catalog .catalog-list ol li.level2 .text a {
+    color: #333;
+}
+.text-center{
+    text-align: center;
+}
+.text-center img{
+    /*width: 250px;*/
+    max-height: 155px;
+}
+.main-content table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: auto;
+}
+.main-content table caption {
+    font-weight: 700;
+    padding: 8px 0 9px;
+    font-size: 14px;
+}
+
+.main-content table td {
+    padding: 2px 10px;
+    font-size: 12px;
+    line-height: 22px;
+    height: 22px;
+    border: 1px solid #e6e6e6;
+}
+.main-content table .para {
+    font-size: 12px;
+    text-indent: 0;
+    margin: 0;
+    height: auto;
+}
+/*地图*/
+.lemma-map {
+    padding: 5px;
+    border: 1px solid #DDD;
+    line-height: 12px;
+    text-align: center;
+}
+
+.rs-container {
+    clear: both;
+    margin-bottom: 10px;
+    position: sticky;
+}
+
+.lemma-relation-table {
+    line-height: 28px;
+    font-size: 12px;
+}
+.relation-table-banner {
+    background: #EDF2F5;
+    border-bottom: 1px solid #BCC5CC;
+    border-top: 2px solid #9AA5AD;
+    padding-left: 15px;
+    margin-top: 20px;
+}
+.relation-table-main {
+    color: #5B5F65;
+    font-size: 12px;
+}
+
+.relation-table-main {
+    clear: both;
+    position: relative;
+    display: block;
+    color: #666;
+    border-bottom: 1px solid #BCC5CC;
+    zoom: 1;
+}
+
+.relation-table-main table {
+    width: 100%;
+    border-color: #DEDFE1;
+}
+
+.main-content table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.relation-unit {
+    margin: 0;
+    border-top: 1px solid #DEDFE1;
+}
+.main-content .rs-container table th, .main-content .rs-container table td {
+    padding: 0;
+    font-size: inherit;
+    line-height: inherit;
+    height: inherit;
+    border: 0;
+}
+/*自己加的*/
+.rs-container-foot {
+    /*margin: 0 15%;*/
+}
+
+.lemma-reference {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lemma-reference dt.reference-title {
+    font-size: 19px;
+    line-height: 45px;
+    font-weight: 200;
+    font-family: 'Microsoft YaHei',sans-serif;
+    border-bottom: 2px solid #ccc;
+    padding: 0!important;
+    margin: 0!important;
+}
+
+
+.lemma-reference.collapse .reference-list-wrap {
+    overflow: hidden;
+}
+
+.lemma-reference .reference-list-wrap {
+    color: #333;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.tangram-tree dl, dt, dd {
+    margin: 0;
+    padding: 0;
+}
+.lemma-reference .reference-list-wrap .reference-list .reference-item {
+    color: #aaa;
+    line-height: 20px;
+    margin-top: 9px;
+    width: 100%;
+    font-size: 12px;
+}
+.lemma-reference .reference-list-wrap .reference-list .reference-item a {
+    color: #666;
+    text-decoration: none;
+}
+.album-list {
+    margin: 30px 0;
+}
+.album-list .header {
+    clear: both;
+    height: 40px;
+    border-bottom: 1px solid #e0e0e0;
+    background: #f5f5f5;
+}
+.album-list .header .title {
+    font-size: 19px;
+    font-family: Microsoft YaHei,sans-serif;
+    line-height: 40px;
+    padding-left: 10px;
+}
+
+.album-list .header .more-link {
+    border: 1px solid #ccc;
+    display: block;
+    background: #fafafa;
+    width: 56px;
+    height: 22px;
+    line-height: 22px;
+    float: right;
+    position: relative;
+    margin-top: 8px;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 0 10px;
+    margin-right: 10px;
+}
+.album-list .scroller {
+    width: 790px;
+    height: 213px;
+    /* overflow: hidden; */
+}
+.album-list .list {
+    position: relative;
+    margin-top: 15px;
+    width: 960px !important;
+    /* overflow: hidden; */
+}
+.album-list .list .lemma-album {
+    /* margin-top: 0; */
+    width: 195px !important;
+    overflow:  hidden;
+    float: left;
+    margin: 0 15px 15px 0;
+}
+.lemma-album .album-wrap {
+    border: solid 1px #e0e0e0;
+    width: 168px;
+    height: 167px;
+    overflow: hidden;
+    position: relative;
+}
+.album-list .list .lemma-album .description {
+    height: 18px;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.lemma-album .description {
+    display: block;
+    text-align: left;
+    padding: 8px 7px;
+    line-height: 18px;
+    color: #555;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: simSun;
+    border: solid 1px #e0e0e0;
+    border-top: 0;
+    text-indent: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.footer{
+    display: none;
+}

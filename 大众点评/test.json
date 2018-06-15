@@ -1,0 +1,217 @@
+{
+    "brandKeyword": false,
+    "isEnd": false,
+    "list": [
+        {
+            "adShop": false,
+            "altName": "",
+            "authorityLabelColor": "#22A3DD",
+            "authorityLabelType": 6,
+            "bookable": false,
+            "branchName": "",
+            "categoryId": 32745,
+            "categoryName": "自然风光",
+            "cityId": 3602,
+            "defaultPic": "https://p0.meituan.net/travel/e559038564ce078c2352cd108bc01487626136.png%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "extraJson": "{}",
+            "hasBeautyBooking": false,
+            "hasDeals": false,
+            "hasMoPay": false,
+            "hasPromo": false,
+            "hasTakeaway": false,
+            "hotelBookable": false,
+            "id": 2559616,
+            "matchText": "千岛湖风景区 自然风光",
+            "memberCardId": 0,
+            "name": "千岛湖中心湖景区",
+            "newShop": false,
+            "orderDish": false,
+            "originalUrlKey": "http://p0.meituan.net/travel/e559038564ce078c2352cd108bc01487626136.png",
+            "priceText": "￥273/人",
+            "queueable": false,
+            "recommendReason": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 13,
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "休息中 01:00营业",
+                "textType": 0,
+                "type": 0
+            },
+            "recommendReasonData": {
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "recommendReason": "休息中 01:00营业",
+                "recommendReasonType": 2
+            },
+            "regionName": "千岛湖风景区",
+            "reviewCount": 1147,
+            "scoreText": "",
+            "shopDealInfos": [
+                {
+                    "dealTitle": "成人票205元起,亲子票315元起,老人/学生/记者票130元起",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p0.meituan.net/wedding/0dcb90da96f8b61b5af23e9f65231ac81386.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 16
+                    }
+                },
+                {
+                    "dealTitle": "门票+酒店套餐、跟团游,等",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p1.meituan.net/wedding/41a88188ad28b1acbebc454fb1f3cf882393.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 28
+                    }
+                }
+            ],
+            "shopPositionInfo": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "",
+                "textType": 0,
+                "type": 0
+            },
+            "shopPower": 45,
+            "shopStateInformation": [ ],
+            "shopType": 35,
+            "status": 0,
+            "tagList": [
+                {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 11,
+                    "iconAlignType": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconWidth": 0,
+                    "priority": 0,
+                    "text": "明日可订",
+                    "textType": 0,
+                    "type": 3
+                }
+            ]
+        },
+        {
+            "adShop": false,
+            "altName": "",
+            "authorityLabelColor": "#22A3DD",
+            "authorityLabelType": 6,
+            "bookable": false,
+            "branchName": "",
+            "categoryId": 32745,
+            "categoryName": "自然风光",
+            "cityId": 3602,
+            "defaultPic": "https://p0.meituan.net/hotel/ad1707c303d2a6538b1ae6947943a8d91782664.png%40120w_120h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+            "extraJson": "{}",
+            "hasBeautyBooking": false,
+            "hasDeals": false,
+            "hasMoPay": false,
+            "hasPromo": false,
+            "hasTakeaway": false,
+            "hotelBookable": false,
+            "id": 9314179,
+            "matchText": "千岛湖风景区 自然风光",
+            "memberCardId": 0,
+            "name": "千岛湖东南湖区",
+            "newShop": false,
+            "orderDish": false,
+            "originalUrlKey": "http://p0.meituan.net/hotel/ad1707c303d2a6538b1ae6947943a8d91782664.png",
+            "priceText": "￥254/人",
+            "queueable": false,
+            "recommendReason": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 13,
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "休息中 09:00营业",
+                "textType": 0,
+                "type": 0
+            },
+            "recommendReasonData": {
+                "iconHeight": 0,
+                "iconWidth": 0,
+                "recommendReason": "休息中 09:00营业",
+                "recommendReasonType": 2
+            },
+            "regionName": "千岛湖风景区",
+            "reviewCount": 196,
+            "scoreText": "",
+            "shopDealInfos": [
+                {
+                    "dealTitle": "成人票205元起,记者/老人/学生票130元起,亲子票315元起",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p0.meituan.net/wedding/0dcb90da96f8b61b5af23e9f65231ac81386.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 16
+                    }
+                },
+                {
+                    "dealTitle": "杭州千岛湖海外海假日酒店+千岛湖东南湖区+双人早餐884元,千岛湖秀水度假公寓酒店++双早388元,千岛湖丽景酒店++双人自助早餐248元",
+                    "dealType": 0,
+                    "iconUrl": {
+                        "height": 16,
+                        "url": "https://p1.meituan.net/wedding/5385ce1dd82ff7044fd730db6bcc18b22493.png%402048w_2048h_0e_1l%7Cwatermark%3D0",
+                        "width": 28
+                    }
+                }
+            ],
+            "shopPositionInfo": {
+                "alignType": 0,
+                "cornerRadius": 0,
+                "fontSize": 0,
+                "icon": "",
+                "iconAlignType": 0,
+                "iconHeight": 0,
+                "iconTextSpacing": 0,
+                "iconWidth": 0,
+                "priority": 0,
+                "text": "",
+                "textType": 0,
+                "type": 0
+            },
+            "shopPower": 45,
+            "shopStateInformation": [ ],
+            "shopType": 35,
+            "status": 0,
+            "tagList": [
+                {
+                    "alignType": 0,
+                    "cornerRadius": 0,
+                    "fontSize": 11,
+                    "iconAlignType": 0,
+                    "iconHeight": 0,
+                    "iconTextSpacing": 0,
+                    "iconWidth": 0,
+                    "priority": 0,
+                    "text": "明日可订",
+                    "textType": 0,
+                    "type": 3
+                }
+            ]
+        }
+    ],
+    "nextStartIndex": 3,
+    "queryId": "30ed6792-0fee-4108-acc2-e7f4faa2b1a0",
+    "recordCount": 2113,
+    "searchResultExtraInfo": "{\"AdLabel\":\"广告\"}",
+    "startIndex": 1
+}
